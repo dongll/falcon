@@ -1,7 +1,13 @@
 <template>
 <div>
 	<dropdownVue></dropdownVue>
-	<buttonVue></buttonVue>
+	<!--  :class="customClass" 
+          :name="name"
+          :disabled="disabled"
+          :large="large"
+          :markup="markup"
+          @click="handleClick" -->
+	<buttonVue class="test" id="aaa" large="true">Button</buttonVue>
 </div>
 </template>
 <script>

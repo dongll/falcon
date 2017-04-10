@@ -23,6 +23,7 @@ import Breadcrumb from 'COMPONENTS/Breadcrumb'
 export default {
   name: 'app',
   router: router,
+  // 'v-button':Button,
   components: {Navbar,Sidebar,Breadcrumb}
 }
 </script>
