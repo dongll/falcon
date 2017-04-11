@@ -13,7 +13,7 @@
 		</div>
 	</div>
 	<div>
-		<a href="#device" class="btn btn-default btn-block">设备</a>
+		<a href="#device" class="btn btn-default btn-block">设备列表</a>
 	</div>
 </div>
 </template>
