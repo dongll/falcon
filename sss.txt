@@ -8,3 +8,5 @@ bra two commit
 
 brb merge one commit
 bra merge one commit
+
+2 brb one commit
