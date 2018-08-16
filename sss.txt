@@ -14,3 +14,5 @@ bra merge one commit
 
 no-ff bra one
 no-ff bra two
+
+no-ff branch one
