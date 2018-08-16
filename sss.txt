@@ -5,3 +5,5 @@ master one comit
 
 bra one commit
 bra two commit
+
+bra merge one commit
