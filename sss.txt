@@ -25,3 +25,5 @@ noffb four
 
 noffc a
 noffc b
+noffb a
+noffb b
