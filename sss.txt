@@ -1,4 +1,7 @@
 update  set
+
+test merge from other branch,whether has merge commit
+
 test push
 branch bra one commit
 master one comit
